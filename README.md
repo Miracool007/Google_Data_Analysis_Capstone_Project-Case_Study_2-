@@ -17,7 +17,7 @@ We can determine that based on users' activities, all kind of users wear smart-d
 
 ![Rplot](https://github.com/Miracool007/Google_Data_Analysis_Capstone_Project-Case_Study_2-/assets/150830858/094e1e3c-31ca-4916-b128-24970d828678)
 
-According to health practitioners, the recommended steps an indvidual should take daily for a healthier living is 7500 steps, while a minimum of 480 minutes
+According to health practitioners, the recommended steps an individual should take daily for a healthier living is 7500 steps, while a minimum of 480 minutes
 (8 hours) of sleep is also recommended. Below in the graph, we can determine that;
 1. Users walked the recommended amount of steps of 7500 except for Sundays
 2. Users don't sleep the recommended amount of sleep (8 hours/480 minutes)
